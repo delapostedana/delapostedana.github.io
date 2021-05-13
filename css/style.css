@@ -585,6 +585,11 @@ input[type="submit"]:hover {
 //  09 - contact > Social
 /////////////////////////////////////////////////////////////////////*/
 
+.container-sosmed{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
 .social-box {
     list-style-type: none;
     /* padding-left: 71px; */
